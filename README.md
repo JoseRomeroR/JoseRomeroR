@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kygamik
+- 👋 Hi, I’m José Romero Roldán
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate in everything i can
