@@ -1,6 +1,6 @@
 - 👋 Hi, I’m José Romero Roldán
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate in everything i can
 - 📫 How to reach me, you can contact me via email.
 
