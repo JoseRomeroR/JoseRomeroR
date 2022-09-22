@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseromeror&label=Profile%20views&color=0e75b6&style=flat" alt="joseromeror" /> </p>
-<img align="right" alt="Coding" width="450" src="https://res.cloudinary.com/jerrick/image/upload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif">
+<img align="right" alt="Coding" width="450" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 - 🔭 I’m currently working on [Streaming Trading](https://streamingtrading.es/)
 
 - 🌱 I’m currently learning **Java**
