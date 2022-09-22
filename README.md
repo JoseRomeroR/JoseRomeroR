@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseromeror&label=Profile%20views&color=0e75b6&style=flat" alt="joseromeror" /> </p>
 <img align="right" alt="Coding" width="450" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-- 🔭 I’m currently working on https://streamingtrading.es/
+- 🔭 I’m currently working on www.streamingtrading.es
 
 - 🌱 I’m currently learning **Java**
 
