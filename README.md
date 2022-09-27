@@ -20,6 +20,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Joseromeror&theme=python-dark&border_radius=5.6)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseromeror&show_icons=true&locale=en&layout=compact" alt="joseromeror" /</p>
 
