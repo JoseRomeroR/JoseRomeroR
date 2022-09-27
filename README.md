@@ -34,7 +34,7 @@
 
 
 
-https://raw.githubusercontent.com/joseromeror/joseromeror/output/github-contribution-grid-snake.svg
+
 
 <a href="https://github.com/JoseRomeroR/JoseRomeroR">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRomeroR&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
