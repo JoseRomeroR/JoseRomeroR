@@ -3,7 +3,14 @@
 </h1>
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=22&duration=4000&pause=1000&color=37BFFB&background=51FFFD00&center=true&width=435&lines=Backend+developer;Always+learning+new+things)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/joseromeror/readme-typing-svg">
+     [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=22&duration=4000&pause=1000&color=37BFFB&background=51FFFD00&center=true&width=435&lines=Backend+developer;Always+learning+new+things)](https://git.io/typing-svg)
+  
+  </a>
+</p>
+
+ 
 
 
 
