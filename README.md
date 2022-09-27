@@ -29,6 +29,8 @@
 ![JoseRomeroR's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseromeror&theme=github_dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseromeror&theme=tokyonight)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoseromeroR&bg_color=201e1f&color=0400f5&line=4061b0&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
