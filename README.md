@@ -25,4 +25,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseromeror&show_icons=true&locale=en&layout=compact" alt="joseromeror" /</p>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseromeror&theme=tokyonight)
+
 
