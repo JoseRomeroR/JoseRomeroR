@@ -20,10 +20,9 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseromeror&theme=tokyonight)
-<p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Joseromeror&theme=python-dark&border_radius=5.6)](https://git.io/streak-stats)
 ![JoseRomeroR's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseromeror&theme=github_dark&show_icons=true)
- </p>
 
 
 
