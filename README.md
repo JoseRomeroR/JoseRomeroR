@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/joseromeror/joseromeror/master/name.svg" alt="Jose Romero" />
 </h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=22&duration=4000&pause=1000&color=37BFFB&background=51FFFD00&center=true&width=435&lines=Backend+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
 
