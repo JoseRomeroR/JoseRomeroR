@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on the design of www.streamingtrading.es
 
-- 🌱 I’m currently learning **Java** and **Unity**
+- 🌱 I’m currently learning **Java** and **Kotlin**
 
 - 📫 How to reach me **Joseromerodev@gmail.com**
 
