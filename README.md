@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ3bWt4aDFvdzB3eWsxcXFxN2I1OG16ZW90aW9xdmNhMWpwanVpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp">
 
-- 🔭 I’m currently working on the design of www.streamingtrading.es
+- 🔭 I’m currently working at EY
 
 - 🌱 I’m currently learning **Java** and **Kotlin**
 
